@@ -11,6 +11,6 @@ def pioneer
 end
 
 
-def id_hash_generator(number)
+def id_hash_generator(5)
  { id: 451 }
 end
